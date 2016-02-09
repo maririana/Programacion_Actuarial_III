@@ -1,0 +1,29 @@
+---
+title: "Calificaciones"
+author: "Mariana Garfias"
+date: "8 de febrero de 2016"
+output: html_document
+---
+
+#Benemérita Universidad Autónoma de Puebla
+##Licenciatura en Actuaría
+###Programación Actuarial III
+
+## Materias Aprobadas
+
+### 1er Semestre:
+* Programación Actuarial I:  8
+* DHPC:  9
+* Matemáticas Básicas:  7
+* Problemas de Matemáticas Básicas:  7
+
+### 2do Semestre:
+* Cálculo Diferencial:  9
+* Teoría del Interés I:  6
+
+### 3er Semestre:
+* Teoría del Interés II:  8
+* Formación Humana y Social:  10
+* Teoría de Ecuaciones:  7
+* Programación Actuarial II:  9
+
